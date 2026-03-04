@@ -8,8 +8,7 @@ from aiogram.filters import Command
 from aiogram import Bot, Dispatcher, types
 from pygame.midi import frequency_to_midi
 
-TELEGRAMM_TOKEN = '8387589572:AAElhVRAF1oDoER0xU_Zm0VJUyVghy36p4Q'
-YANDEX_API_KEY = '78e31b76-59ca-424b-b5bb-b048465dac76'
+
 
 bot = Bot(token=TELEGRAMM_TOKEN)
 dp =Dispatcher()
